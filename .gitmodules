@@ -13,3 +13,6 @@
 [submodule "bundle/vim-autoformat"]
 	path = bundle/vim-autoformat
 	url = https://github.com/Chiel92/vim-autoformat.git
+[submodule "/home/omid/.vim/bundle/vim-easymotion"]
+	path = /home/omid/.vim/bundle/vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion

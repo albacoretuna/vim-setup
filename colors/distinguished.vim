@@ -168,7 +168,7 @@ call s:ColorDictParser({
 	\ , 'diffNewFile'                 : [    242,     '',               '',      '6c6c6c',        '',               '']
 \ })
 
-hi SpellBad cterm=underline
+hi SpellBad cterm=underline ctermbg=0
 hi SpellCap cterm=bold ctermbg=0
 hi SpellRare cterm=bold ctermbg=0
 hi SpellLocal cterm=bold ctermbg=0
